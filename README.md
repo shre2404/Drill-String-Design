@@ -6,8 +6,8 @@ This repository contains tools and methodologies for designing and assessing the
 
 ## Key Parameters
 
-- AWOB (Allowable Weight on Bit)**
-- AMOP (Allowable Maximum Operating Pressure)**
-- ASFT (Allowable Safety Factor)**
-- ANc (Allowable Design Factor for Collapse)**
-- ANi (Allowable Design Factor for Burst)**
+- AWOB (Allowable Weight on Bit)
+- AMOP (Allowable Maximum Operating Pressure)
+- ASFT (Allowable Safety Factor)
+- ANc (Allowable Design Factor for Collapse)
+- ANi (Allowable Design Factor for Burst)
